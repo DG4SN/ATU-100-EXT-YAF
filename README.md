@@ -1,3 +1,8 @@
+> ⚠️ **This repository is no longer maintained.**
+>
+> A newer, actively maintained version is available here: [ATU-100-EXT-YAF-2E0UMK](https://github.com/KDMcMullan/ATU-100-EXT-YAF-2E0UMK).
+
+
 # Antenna tuner - ATU-100 EXT - Yet Another Firmware
 ![ATU-100_EXT_YAF](images/ATU-100_EXT_YAF.jpg)
 
